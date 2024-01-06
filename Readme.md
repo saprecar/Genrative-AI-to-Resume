@@ -6,7 +6,7 @@ which can be seamlessly integrated into GitHub.
 
   
 **Requirement** 
-
+------------
 To make edits to the document file, you'll need a word processing tool like Microsoft Word or LibreOffice Writer. Any modern browser supports a PDF viewer.  
 The job postings you're interested in are often found on the company's career page, LinkedIn, and similar platforms.  
 It's essential to exercise patience and modify the GPT prompt below to suit your needs for diverse outcomes. Simply copy and paste your skills into the document,  
@@ -14,13 +14,13 @@ and you can find formatting tutorials on YouTube. Don't forget to thoroughly pro
   
 
 **What is ATS ?** 
-
+------------
 ATS, short for applicant tracking system, is a software tool designed to streamline and manage the electronic aspects of recruitment and hiring processes.  
 It can be utilized online for both large enterprises and small businesses, with the option of accessing free and open-source ATS software based on the organization's requirements. 
 
   
 **How ATS Works:** 
-
+------------
 1. ATS simplifies your resume into plain text, like something you'd see in Notepad. 
 2. It doesn't recognize graphics, images, or text colors. 
 3. Next, it matches keywords—think of it like predicting or analyzing sentiments in data science terms. 
@@ -29,7 +29,7 @@ Sometimes it looks at your qualifications, but don't worry too much about that; 
  
 
 **Crafting an ATS-Friendly Resume:** 
-
+------------
 1. Opt for the always-reliable PDF format for your resume. It ensures accessibility for HR, overcoming issues with word processing software, organizational policies, and varying software versions. PDFs open seamlessly in any browser. 
 2. Choose a PDF format that allows copying. Some professional resume services provide locked and uncopiable resumes, making it difficult for ATS to read. Even if OCR technology is in play, spelling mistakes can occur. 
 3. Test your PDF resume by opening it, pressing Ctrl + A, then Ctrl + C, and attempting to paste it into Notepad. Successful paste? Great. If not, you might need to reconsider your resume format. 
@@ -60,7 +60,7 @@ Sometimes it looks at your qualifications, but don't worry too much about that; 
 14. Refrain from providing personal details such as date of birth, zodiac sign, parents' names, family specifics, blood group, height, weight, current salary, and social IDs like PAN card or Aadhaar card in your resume. Save these details for when you secure the job, and HR contacts you for the necessary information. Be cautious, as scammers may try to impersonate HR to obtain such details. Legitimate companies will request these details when the offer letter is about to be released, not during a random call. If a company needs identity proof during an interview, always verify the domain address of the email you receive the interview invite from. 
 
 **Resume Format* 
-
+------------
 1. Display your name boldly, sized between 13 to 16. If you prefer, you can exclude the family name. 
 2. Provide your contact details, including the city of work, phone number with the country code in the format (+ country code)xxx-xxxx-xxxx, email address, and a professional LinkedIn profile link. Quick tips: 
    a. Shorten your LinkedIn link using this guide: https://www.linkedin.com/help/linkedin/answer/a542685/manage-your-public-profile-url 
@@ -121,25 +121,25 @@ Hobbies can span from outdoor to indoor activities, including TV series, anime, 
 This section holds significance; refrain from including fake languages, as discussed in the Hobbies section. List languages you genuinely know and prefer. Sometimes, language skills can be crucial for a job or serve as a point of shared interest, fostering connections. 
 
 **Cover Letter** 
-
+------------
 Think of a cover letter as your professional introduction—it's like the opening act to your resume when you're applying for a job. Unlike a love letter, keep it formal yet add a touch of personality. Skip the unnecessary details and avoid mentioning specific job titles or company names to make it more versatile. Instead, highlight your years of experience, key skills, and briefly talk about your current and past roles (limit it to two companies). It's a snapshot of why you're the perfect fit for the job and the company. Max page allowed is one. 
 
 **Cover Letter Format** 
-
+------------
 Kick off your cover letter with the basics: your name and contact details, just like the initial section of your resume. Take a moment with a line break and open the letter with a warm "Hello." Steer clear of overly casual greetings like 'Hi,' 'Dear,' 'Whatsapp,' or 'Yo.' 
 Transition smoothly into the context of your cover letter, wrapping it up with a gracious "Thanks" and your name. No need to repeat your contact details; you've already covered that at the beginning. 
 
 **Prompt For Chat Generative AI** 
-
+------------
 Now, let's dive into why we're using generative AI, starting with crafting your resume. Hopefully, you've got your old resume or a rough draft ready, along with a few job profiles you're eyeing. Remember, to safeguard your privacy, avoid including personal details like your name, contact information, company names, or educational institutions. Instead, use placeholder names and words that you can replace when editing your resume. Take the necessary steps to ensure privacy, and if there's a privacy statement associated with the generative AI you're using—whether it's GPT, Bard, or any other—make sure to give it a visit. It's your responsibility to safeguard your privacy. 
 
 Please read Privacy and Policy statement before using this. 
 
 **Let begin with prompt** 
-
+------------
 Let ask GPT to act like a resume writer  
 Feel free to type the prompt without any quotes, and just swap out "GPT" for the name of the tool you're working with 
----------------------------------------------------------****--------------------------------------------
+
 **Prompt 1** 
 
 “Hi Gpt, I'm seeking the assistance of a professional resume writer to help me craft a resume. The language of the resume is English, and it should be optimized for LinkedIn and ATS-friendly. I'll provide details about my job responsibilities and specific job descriptions in our next chat. Additionally, please incorporate the keywords.” 
