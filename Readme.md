@@ -230,7 +230,7 @@ Can you create example responses for me so I can have idea and practices
 Wrap Up
 ------------
 
-As we wrap things up, remember that this document is a work in progress. Feel free to share additional ideas and suggestions in the GitHub "Issue" tab as they come to you—your input is valued. 
+As we wrap things up, remember that this document is a work in progress. Feel free to share additional ideas and suggestions in the GitHub "Discussion" tab as they come to you—your input is valued. 
 
 **Before diving into the information provided, take note of the following:** 
 
@@ -255,4 +255,24 @@ Resist the temptation to use this resource for interview cheating purposes. Main
 **Author's Disclaimer** 
 The author holds no responsibility for any risks, injuries, issues, or liabilities that may arise from the use of this guide. Exercise personal judgment and responsibility. 
 
- 
+
+Rule for using the Discussion Tab: Respectful Engagement
+-------------------------
+
+1. Be courteous: Treat others with kindness and respect. Avoid personal attacks, offensive language, or any form of harassment.
+2. Stay on topic: Keep discussions relevant to the intended purpose of the tab. Straying too far can lead to confusion and disrupt the flow of conversation.
+3. Constructive criticism: If you disagree with someone, express your viewpoint in a constructive manner. Focus on ideas and avoid attacking individuals.
+4. No spamming: Avoid excessive self-promotion, irrelevant content, or repetitive messages. Contribute meaningfully to the discussion.
+5. Inclusivity: Embrace diversity and different perspectives. Be open-minded and create an environment where everyone feels welcome to participate.
+6. Fact-check: Before sharing information, ensure its accuracy. Misinformation can hinder productive discussions.
+7. Mindful language: Use clear and concise language to convey your thoughts. Avoid jargon or overly complex terms that may confuse others.
+8. Report concerns: If you encounter any disrespectful behavior or violations of these rules, report it to the moderators for prompt action.
+9. Author's disclaimer: Discussions on the tab are the result of individual opinions, and the author is not responsible for any emotional impact or hurt sentiments caused by the content. Participants engage at their own discretion, understanding that diverse perspectives may be expressed. Exercise emotional intelligence and self-care while participating in discussions.
+
+Remember, the Discussion Tab is a space for collaborative and respectful conversation, fostering a positive and inclusive community.
+
+
+
+Disclaimer
+--------
+Disclaimer: This guidebook is offered for informational purposes and is generated solely through artificial intelligence. It is acknowledged that errors, spelling mistakes, and grammatical issues may be present. The content does not replicate the views or information of any specific individual, organization, or community. While intended as a useful tool, users are advised to independently verify information for accuracy. All contact information provided is exempt from copyright restrictions; however, any commercial use without explicit written consent from the author is prohibited. For the removal of any contact information, please content the author as specified in the primary author profile.
