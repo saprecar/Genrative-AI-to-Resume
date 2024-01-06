@@ -84,6 +84,7 @@ Supported the implementation of an AI-powered recommendation engine, personalize
 Note: Here's a life hack for you—incorporate a few technical skills in this section, like SQL or Python. Bold them. While this doesn't impact ATS, it catches the interviewer's eye. Human behavior tends to focus on highlighted words, sparking questions during interviews. This hack can also assist in streamlining resumes during HR screenings. Remember, if you've already mentioned skills within your job roles and responsibilities, there's no need to repeat them in the dedicated skills section. Use this space to showcase additional skills. 
 
 4. Skills  
+
 Skills take the lead for experienced professionals, making them the first section in your resume, followed by Certificates and Education. However, for freshers, the sequence is reversed—kick off with Education, then Certificates, and finally, showcase your Skills. 
 Enrich your resume with a blend of soft and technical skills, employing a bar to enhance its searchability and facilitate HR screening—think of it as the SEO for your resume. Stick to 3-5 skills in concise bullet points, ensuring a well-balanced mix. 
 Feel free to use the | symbol for additional skills. Here are examples for both scenarios: 
@@ -99,9 +100,11 @@ Communication | Leadership
 Java | HTML 
 
 5. Certifications 
+
 Don't go overboard with certifications—quality over quantity is key. Limit it to a maximum of 3-4 certifications, just like in examples 1 and 2.
 
 6. Education 
+
 This section holds significant weight. For experienced professionals, prioritize your degree names; details about schooling (12th and 10th grades) are less critical as HR is already aware of these basics. 
 Format it like this: Specify the full name of the institution (avoid abbreviations), followed by the city name in brackets and the year of graduation. The start date is not crucial. Present the degree's full name, and format the information in bullet points for clarity. 
 
@@ -109,20 +112,25 @@ Format it like this: Specify the full name of the institution (avoid abbreviatio
  Master of Business Administration – Finance and Leadership 
 
 7. Hobbies: 
+
 While optional, this section can serve as an icebreaker, creating a connection with the interviewer. Apply the same principle—opt for quality over quantity. Showcase 3-4 genuine hobbies, akin to examples 1 and 2. Avoid fabricating interests, as my experience has shown that this can lead to rejection. 
 Hobbies can span from outdoor to indoor activities, including TV series, anime, or video games. Be well-prepared to explain why you enjoy these activities and how they contribute to your personal and professional growth. Present your hobbies in bullet points, aligning with the format used in previous sections. 
 
 8. Languages 
+
 This section holds significance; refrain from including fake languages, as discussed in the Hobbies section. List languages you genuinely know and prefer. Sometimes, language skills can be crucial for a job or serve as a point of shared interest, fostering connections. 
 
 **Cover Letter** 
+
 Think of a cover letter as your professional introduction—it's like the opening act to your resume when you're applying for a job. Unlike a love letter, keep it formal yet add a touch of personality. Skip the unnecessary details and avoid mentioning specific job titles or company names to make it more versatile. Instead, highlight your years of experience, key skills, and briefly talk about your current and past roles (limit it to two companies). It's a snapshot of why you're the perfect fit for the job and the company. Max page allowed is one. 
 
 **Cover Letter Format** 
+
 Kick off your cover letter with the basics: your name and contact details, just like the initial section of your resume. Take a moment with a line break and open the letter with a warm "Hello." Steer clear of overly casual greetings like 'Hi,' 'Dear,' 'Whatsapp,' or 'Yo.' 
 Transition smoothly into the context of your cover letter, wrapping it up with a gracious "Thanks" and your name. No need to repeat your contact details; you've already covered that at the beginning. 
 
 **Prompt For Chat Generative AI** 
+
 Now, let's dive into why we're using generative AI, starting with crafting your resume. Hopefully, you've got your old resume or a rough draft ready, along with a few job profiles you're eyeing. Remember, to safeguard your privacy, avoid including personal details like your name, contact information, company names, or educational institutions. Instead, use placeholder names and words that you can replace when editing your resume. Take the necessary steps to ensure privacy, and if there's a privacy statement associated with the generative AI you're using—whether it's GPT, Bard, or any other—make sure to give it a visit. It's your responsibility to safeguard your privacy. 
 
 Please read Privacy and Policy statement before using this. 
@@ -133,15 +141,19 @@ Let ask GPT to act like a resume writer
 Feel free to type the prompt without any quotes, and just swap out "GPT" for the name of the tool you're working with 
 ---------------------------------------------------------****--------------------------------------------
 **Prompt 1** 
+
 “Hi Gpt, I'm seeking the assistance of a professional resume writer to help me craft a resume. The language of the resume is English, and it should be optimized for LinkedIn and ATS-friendly. I'll provide details about my job responsibilities and specific job descriptions in our next chat. Additionally, please incorporate the keywords.” 
 
 **Prompt 2** 
+
 Here is my Job responsibilities (Add your job responsibilities and key teach you are using inside this bracket) 
 
 **Prompt 3** 
+
 Here is JD I am applying for (When adding a job description from LinkedIn or a career page, ensure you remove the company name to avoid it appearing in your responsibilities section) 
 
 **Prompt 4** 
+
 Let's brainstorm some ideas to make this more interesting. 
 
 **Note:** 
