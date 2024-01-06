@@ -1,0 +1,22 @@
+**Intro**
+The role focuses on guiding individuals in developing resumes compatible with Applicant Tracking Systems (ATS) using generative AI tools such as ChatGPT, Google's Bard, and similar solutions. 
+While success in securing a job isn't guaranteed, this method significantly enhances resume creation. I've also shared a simple document template that I personally utilize for my resume, 
+which can be seamlessly integrated into GitHub.
+
+**Requirement**
+To make edits to the document file, you'll need a word processing tool like Microsoft Word or LibreOffice Writer. Any modern browser supports a PDF viewer. 
+The job postings you're interested in are often found on the company's career page, LinkedIn, and similar platforms. 
+It's essential to exercise patience and modify the GPT prompt below to suit your needs for diverse outcomes. Simply copy and paste your skills into the document, 
+and you can find formatting tutorials on YouTube. Don't forget to thoroughly proofread your resume before uploading or applying, as interviewers might inquire about its content.
+
+**What is ATS ?**
+ATS, short for applicant tracking system, is a software tool designed to streamline and manage the electronic aspects of recruitment and hiring processes. 
+It can be utilized online for both large enterprises and small businesses, with the option of accessing free and open-source ATS software based on the organization's requirements.
+
+**How ATS Works:**
+
+1. ATS simplifies your resume into plain text, like something you'd see in Notepad.
+2. It doesn't recognize graphics, images, or text colors.
+3. Next, it matches keywords—think of it like predicting or analyzing sentiments in data science terms.
+4. ATS is designed to pull out specific details like your phone number, email, and keywords from responsibilities. 
+Sometimes it looks at your qualifications, but don't worry too much about that; a human will read your impressive resume afterward.
