@@ -59,7 +59,7 @@ Sometimes it looks at your qualifications, but don't worry too much about that; 
 11. Please refrain from adding statements like "I hereby declare the resume is correct" with your signature at the end of your resume. A resume is more of a marketing brochure than a legal document. Many professionals, including resume writers, often include this, but it's entirely unnecessary. 
 14. Refrain from providing personal details such as date of birth, zodiac sign, parents' names, family specifics, blood group, height, weight, current salary, and social IDs like PAN card or Aadhaar card in your resume. Save these details for when you secure the job, and HR contacts you for the necessary information. Be cautious, as scammers may try to impersonate HR to obtain such details. Legitimate companies will request these details when the offer letter is about to be released, not during a random call. If a company needs identity proof during an interview, always verify the domain address of the email you receive the interview invite from. 
 
-**Resume Format* 
+**Resume Format** 
 ------------
 1. Display your name boldly, sized between 13 to 16. If you prefer, you can exclude the family name. 
 2. Provide your contact details, including the city of work, phone number with the country code in the format (+ country code)xxx-xxxx-xxxx, email address, and a professional LinkedIn profile link. Quick tips: 
@@ -167,11 +167,12 @@ I want to emphasize my skills and experience using key terms the ATS recognizes 
 **Prompt 6** 
 
 Help me identify relevant skills from the given information to strengthen my resume profile 
------------------------------------------------------------------------------------------------------
-Let's add these identified skills to my resume 
+
+**Let's add these identified skills to my resume** 
 
 **Let move to Cover Letter** (Optional) 
------------------------------------------------------------------------------------------------------
+------------
+
 **Prompt 1** 
 
 Hi GPT, With X years of experience in the XYZ industry, I'm seeking your assistance in crafting a compelling cover letter. I'd be happy to share my job responsibilities in the next chat for a more tailored approach 
@@ -181,16 +182,15 @@ Hi GPT, With X years of experience in the XYZ industry, I'm seeking your assista
 **Prompt 2 **
 
 Here my Job responsibilities (Add your Job responsibilities, please not GPT will provide full format with is tradition. It optional, you can use that or my one mentioned above. In case using mine, one copies the context only) 
------------------------------------------------------------------------------------------------------
-**Bonus Tips** 
 
+**Bonus Tips** 
+------------
 Hey, did you know the GPT can actually help you prep for your interview? It can give you ideas for how to answer classic questions like "Tell me about yourself" and "Any questions for me?", plus it can point out areas you might want to brush up on and even help you craft killer responses. Pretty cool, right? 
 Let's begin with a fundamental and crucial question. "Tell me about yourself" and "Any questions for me” 
------------------------------------------------------------------------------------------------------
 ** "Tell me about yourself"** 
 
 **Prompt 1** 
-
+------------
 Hi Gpt, I am sharing my Job responsibilities and skill with you can you help to write down response for “Tell me about yourself” for interview. I will share My responsibilities in next chat. Make it simple and crips to the point not more than 5 –6 line 
 
 **Prompt 2** 
@@ -198,7 +198,7 @@ Hi Gpt, I am sharing my Job responsibilities and skill with you can you help to 
 Here my skill and Job responsibilities (Share your responsibilities and Skills) 
 
 Now that you have the details, you don't necessarily need to remember them, but it will aid in explaining the concept 
------------------------------------------------------------------------------------------------------
+
 ** Any questions for me** 
 
 **Prompt 1** 
@@ -206,8 +206,9 @@ Now that you have the details, you don't necessarily need to remember them, but 
 “Hi Gpt, I am sharing JD with you Can you help me what question I can ask to interview, the JD will share in next chat” 
 
 Now that you have the details, you don't necessarily need to remember them. But you got an idea 
------------------------------------------------------------------------------------------------------
+
 **Let's come up with additional questions for the interview. ** 
+------------
 
 **Prompt 1** 
 
@@ -224,7 +225,11 @@ Can you help me how can I response on above questions
 **Prompt 4**
 
 Can you create example responses for me so I can have idea and practices   
------------------------------------------------------------------------------------------------------
+
+
+Wrap Up
+------------
+
 As we wrap things up, remember that this document is a work in progress. Feel free to share additional ideas and suggestions in the GitHub "Issue" tab as they come to you—your input is valued. 
 
 **Before diving into the information provided, take note of the following:** 
