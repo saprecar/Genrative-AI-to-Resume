@@ -157,12 +157,15 @@ Here is JD I am applying for (When adding a job description from LinkedIn or a c
 Let's brainstorm some ideas to make this more interesting. 
 
 **Note:** 
+
 After copying Prompt 4, please proofread and paste it into the Resume document. Keep in mind that there are no strict rules; feel free to explore other prompts for potential improvements and share your results here to assist others. 
 
-**Prompt 5** ****
+**Prompt 5** 
+
 I want to emphasize my skills and experience using key terms the ATS recognizes as a good fit for this position 
 
 **Prompt 6** 
+
 Help me identify relevant skills from the given information to strengthen my resume profile 
 -----------------------------------------------------------------------------------------------------
 Let's add these identified skills to my resume 
@@ -170,23 +173,28 @@ Let's add these identified skills to my resume
 **Let move to Cover Letter** (Optional) 
 -----------------------------------------------------------------------------------------------------
 **Prompt 1** 
+
 Hi GPT, With X years of experience in the XYZ industry, I'm seeking your assistance in crafting a compelling cover letter. I'd be happy to share my job responsibilities in the next chat for a more tailored approach 
 
 **Remember to update 'X' with your years of experience and 'xyz industry' with your relevant industry.** 
 
 **Prompt 2 **
+
 Here my Job responsibilities (Add your Job responsibilities, please not GPT will provide full format with is tradition. It optional, you can use that or my one mentioned above. In case using mine, one copies the context only) 
 -----------------------------------------------------------------------------------------------------
 **Bonus Tips** 
+
 Hey, did you know the GPT can actually help you prep for your interview? It can give you ideas for how to answer classic questions like "Tell me about yourself" and "Any questions for me?", plus it can point out areas you might want to brush up on and even help you craft killer responses. Pretty cool, right? 
 Let's begin with a fundamental and crucial question. "Tell me about yourself" and "Any questions for me” 
 -----------------------------------------------------------------------------------------------------
 ** "Tell me about yourself"** 
 
 **Prompt 1** 
+
 Hi Gpt, I am sharing my Job responsibilities and skill with you can you help to write down response for “Tell me about yourself” for interview. I will share My responsibilities in next chat. Make it simple and crips to the point not more than 5 –6 line 
 
 **Prompt 2** 
+
 Here my skill and Job responsibilities (Share your responsibilities and Skills) 
 
 Now that you have the details, you don't necessarily need to remember them, but it will aid in explaining the concept 
@@ -194,6 +202,7 @@ Now that you have the details, you don't necessarily need to remember them, but 
 ** Any questions for me** 
 
 **Prompt 1** 
+
 “Hi Gpt, I am sharing JD with you Can you help me what question I can ask to interview, the JD will share in next chat” 
 
 Now that you have the details, you don't necessarily need to remember them. But you got an idea 
@@ -201,15 +210,19 @@ Now that you have the details, you don't necessarily need to remember them. But 
 **Let's come up with additional questions for the interview. ** 
 
 **Prompt 1** 
+
 “Hi GPT, please help me what question an interviewer can ask for JD I am sharing next” 
 
 **Prompt 2** 
+
 Here is the JD (Copy paste the JD) 
 
 **Prompt 3** 
+
 Can you help me how can I response on above questions 
 
 **Prompt 4**
+
 Can you create example responses for me so I can have idea and practices   
 -----------------------------------------------------------------------------------------------------
 As we wrap things up, remember that this document is a work in progress. Feel free to share additional ideas and suggestions in the GitHub "Issue" tab as they come to you—your input is valued. 
