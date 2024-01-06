@@ -1,5 +1,5 @@
 **Intro** 
-
+------------
 The role focuses on guiding individuals in developing resumes compatible with Applicant Tracking Systems (ATS) using generative AI tools such as ChatGPT, Google's Bard, and similar solutions.  
 While success in securing a job isn't guaranteed, this method significantly enhances resume creation. I've also shared a simple document template that I personally utilize for my resume,  
 which can be seamlessly integrated into GitHub. 
