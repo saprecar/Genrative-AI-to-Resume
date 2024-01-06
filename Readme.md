@@ -550,4 +550,6 @@ Disclaimer
 
 Disclaimer: This guidebook is offered for informational purposes and is generated solely through artificial intelligence. It is acknowledged that errors, spelling mistakes, and grammatical issues may be present. The content does not replicate the views or information of any specific individual, organization, or community. While intended as a useful tool, users are advised to independently verify information for accuracy. All contact information provided is exempt from copyright restrictions; however, any commercial use without explicit written consent from the author is prohibited. For the removal of any contact information, please content the author as specified in the primary author profile. 
 
+The author expressly disclaims any solicitation for monetary contributions, fees, subscriptions, or other financial obligations. Any request for payment or other pecuniary transactions is not endorsed by the author, their materials, or affiliated entities. Users engage in such transactions at their own risk, and the author assumes no responsibility for any resulting losses or liabilities. It is advised to exercise caution and refrain from clicking on links, scanning QR codes, or downloading any applications or software.
+
  
