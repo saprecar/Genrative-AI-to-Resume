@@ -131,7 +131,7 @@ Please read Privacy and Policy statement before using this.
 
 Let ask GPT to act like a resume writer  
 Feel free to type the prompt without any quotes, and just swap out "GPT" for the name of the tool you're working with 
------------------------------------------------------------------------------------------------------
+---------------------------------------------------------****--------------------------------------------
 **Prompt 1** 
 “Hi Gpt, I'm seeking the assistance of a professional resume writer to help me craft a resume. The language of the resume is English, and it should be optimized for LinkedIn and ATS-friendly. I'll provide details about my job responsibilities and specific job descriptions in our next chat. Additionally, please incorporate the keywords.” 
 
@@ -147,7 +147,7 @@ Let's brainstorm some ideas to make this more interesting.
 **Note:** 
 After copying Prompt 4, please proofread and paste it into the Resume document. Keep in mind that there are no strict rules; feel free to explore other prompts for potential improvements and share your results here to assist others. 
 
-**Prompt 5** 
+**Prompt 5** ****
 I want to emphasize my skills and experience using key terms the ATS recognizes as a good fit for this position 
 
 **Prompt 6** 
